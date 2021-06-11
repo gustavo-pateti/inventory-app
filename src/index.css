@@ -1,0 +1,8 @@
+/* CSS reset */
+@import './styles/reset.css';
+
+/* Font */
+html {
+  font-family: sans-serif;
+  font-size: 16px;
+}
