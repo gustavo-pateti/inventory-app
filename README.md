@@ -38,7 +38,7 @@ git checkout -b [your branch name]
 Branch naming must follow the following format:
 
 ```
-[feature/fix]-[issue#]-[branch-name]
+[feature/fix]-[issue#]/[branch-name]
 ```
 
 Examples:
